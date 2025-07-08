@@ -2,7 +2,7 @@
 
 > 📌 This project was originally created by [Atul Kamble](https://github.com/atulkamble)  
 > 🚀 Currently maintained and owned by [Sanket Randhe](https://github.com/sanket703)
-
+> link to play game : https://sanket703.github.io/snake-game/
 A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized with **Docker**.
 
 ![Snake Game Screenshot](https://github.com/atulkamble/snake-game/blob/main/snake-game.png)
@@ -24,3 +24,4 @@ A **Simple Snake Game** built using **HTML, CSS, and JavaScript**, containerized
 ```bash
 git clone https://github.com/sanket703/snake-game.git
 cd snake-game
+
